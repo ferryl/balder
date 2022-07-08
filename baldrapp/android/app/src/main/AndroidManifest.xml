@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.baldrapp">
+    package="fr.ferryl.baldrapp">
    <application
         android:label="baldrapp"
         android:name="${applicationName}"

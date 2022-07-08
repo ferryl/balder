@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "388617338948",
+    "project_id": "balder-27351",
+    "storage_bucket": "balder-27351.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388617338948:android:e21878dc64d5a69701bc11",
+        "android_client_info": {
+          "package_name": "com.example.baldrapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "388617338948-6sjibduh1d2lu86uq7b7k8lu1i58sqtl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-qwRrihl6LGF6AS2nvjwS-XxRbgwibh8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "388617338948-6sjibduh1d2lu86uq7b7k8lu1i58sqtl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "388617338948-h0q2klu2mk268reqnacbqslqk1d3qilr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "fr.ferryl.baldrapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388617338948:android:8effb490d05178f301bc11",
+        "android_client_info": {
+          "package_name": "fr.ferryl.baldrapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "388617338948-6sjibduh1d2lu86uq7b7k8lu1i58sqtl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-qwRrihl6LGF6AS2nvjwS-XxRbgwibh8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "388617338948-6sjibduh1d2lu86uq7b7k8lu1i58sqtl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "388617338948-h0q2klu2mk268reqnacbqslqk1d3qilr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "fr.ferryl.baldrapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

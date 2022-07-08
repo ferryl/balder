@@ -1,4 +1,4 @@
-package com.example.baldrapp
+package fr.ferryl.baldrapp
 
 import io.flutter.embedding.android.FlutterActivity
 
